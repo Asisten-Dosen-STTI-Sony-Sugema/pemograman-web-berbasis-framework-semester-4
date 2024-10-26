@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  text-align: center;
+}
+
+/* header */
+.header {
+  background-color: #ff9933;
+  color: white;
+  height: 80px;
+}
+.logo {
+  background-color: #ff8000;
+  height: 50px;
+}
+.navbar a {
+  color: white;
+}
+/* end header */
+
+/* main */
+.main {
+  background-color: #eaeaea;
+  height: 650px;
+}
+
+.main h2 {
+  color: white;
+  background-color: salmon;
+}
+
+.main p {
+  color: white;
+  background-color: #ff8000;
+  height: 200px;
+}
+/* end main */
+
+/* footer */
+.footer {
+  background-color: #ff8000;
+  height: 50px;
+}
+/* end footer */
